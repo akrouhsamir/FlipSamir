@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FlipSamir</string>
+    <string name="elementosX">Número de elementos en el eje X: </string>
+    <string name="elementosY">Número de elementos en el eje Y: </string>
+    <string name="elementosTrama">Número de tramas: </string>
+    <string name="baldosas">Elige el modelo de las baldosas: </string>
+    <string name="colores">Colores</string>
+    <string name="numeros">Números</string>
+    <string name="opcionesAdicionales">Opciones adicionales: </string>
+    <string name="iniciarJuego">Iniciar juego</string>
+    <string name="movimientos">Movimientos: </string>
+    <string name="tiempo">Tiempo:</string>
+    <string name="acercaProgramador">Acerca del programador</string>
+    <string name="reglasJuego">Reglas del juego</string>
+    <string name="comoJugar1">Al pulsar unas baldosas cambiarán las adyacentes que no sean diagonales.</string>
+    <string name="comoJugar2">Al pulsar unas baldosas que hace esquina, afectarán a todas las adyacentes.</string>
+    <string name="comoJugar3">El objetivo es conseguir que todas las baldosas sean del mismo color o tipo.</string>
+    <string name="volver">Volver al menú</string>
+    <string name="sonidos">Sonidos</string>
+    <string name="vibracion">Vibración</string>
+</resources>

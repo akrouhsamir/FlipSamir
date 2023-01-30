@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FlipSamir</string>
+    <string name="elementosX">Number of elements on the X axis: </string>
+    <string name="elementosY">Number of elements on the Y axis: </string>
+    <string name="elementosTrama">Number of frames: </string>
+    <string name="baldosas">Choose the model of the tiles: </string>
+    <string name="colores">Colors</string>
+    <string name="numeros">Numbers</string>
+    <string name="opcionesAdicionales">Additional options: </string>
+    <string name="iniciarJuego">Start Game</string>
+    <string name="movimientos">Movements: </string>
+    <string name="tiempo">Time:</string>
+    <string name="acercaProgramador">About the programmer</string>
+    <string name="reglasJuego">Game rules</string>
+    <string name="comoJugar1">Clicking on some tiles will change the adjacent ones that are not diagonal.</string>
+    <string name="comoJugar2">When pressing some corner tiles, they will affect all the adjacent ones.</string>
+    <string name="comoJugar3">The goal is to get all the tiles to be the same color or type.</string>
+    <string name="volver">Back to menu</string>
+    <string name="sonidos">Sounds</string>
+    <string name="vibracion">Vibration</string>
+</resources>
